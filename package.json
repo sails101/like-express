@@ -1,0 +1,19 @@
+{
+  "name": "like-express",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application (but like Express)",
+  "dependencies": {
+    "sails": "~0.10.0",
+    "sails-disk": "~0.10.0",
+    "jade": "*"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node debug app.js"
+  },
+  "main": "app.js",
+  "repository": "",
+  "author": "a Node.js/Sails.js Contributor",
+  "license": ""
+}
